@@ -1,49 +1,44 @@
 # 👋🏻 Hi, I’m Palak Kakani
 
-> “Data is more than just information—it’s a lens into behavior, performance, and opportunity. When analyzed with purpose, it becomes the blueprint for innovation.”
+🎓 Master’s in Data Science & Analytics | Georgia State University  
+💡 Turning complex data into meaningful insights across healthcare, fintech, education, and AI research.
 
-🎓 I’m currently pursuing my **Master’s in Data Science and Analytics** at **Georgia State University**, driven by a passion for uncovering actionable insights and solving real-world problems through data.
-
-My work focuses on delivering **clear insights**, **automating workflows**, and creating **scalable analytics solutions** using tools like **Python, SQL, Power BI**, and **cloud platforms** (AWS, Azure, GCP).
-
----
-
-## 🌟 Industry Experience
-
-🧠 **Shepherd Center, Atlanta** – Developed ML pipelines to predict rehab outcomes, improving early treatment strategies for MS patients.
-
-💬 **Better Business Bureau** – Leveraged LLMs and clustering to automate complaint responses, reducing resolution time by 40% and boosting satisfaction rates.
-
-🌐 **Omdena** – Led predictive modeling for education and medical imaging projects using deep learning, improving model accuracy and real-world utility.
-
-📊 **Illinois Institute of Technology** – Conducted campaign analytics and optimized marketing strategy, increasing CTR by 80% and lowering costs by 40%.
-
-🧪 **IIT Patna** – Built object detection systems for inventory management using YOLO and DCGAN, enhancing e-commerce cataloging.
+I specialize in building **analytics pipelines**, creating **predictive models**, and delivering **actionable dashboards** using tools like Python, SQL, Power BI, and cloud platforms (AWS, Azure, GCP).  
+Passionate about solving real-world problems with data.
 
 ---
 
-## 🛠️ Tools & Skills
+## 🌟 Experience Highlights
 
-**Languages & Tools:** Python, SQL, R, Power BI, Tableau, Excel, Streamlit, Flask  
-**ML/AI:** XGBoost, Scikit-learn, TensorFlow, PyTorch, ARIMA, SHAP, NLP, GenAI  
-**Cloud & Infra:** AWS, Azure, GCP, BigQuery, Firebase, Docker  
-**Analytics:** A/B Testing, KPI Tracking, Data Wrangling, Forecasting, CI/CD  
-**Soft Skills:** Cross-functional leadership, stakeholder communication, agile collaboration
+- **Shepherd Center, Atlanta**  
+  Developed ML pipelines to predict rehab outcomes from over 40,000 multimodal patient records, enhancing early treatment strategy accuracy.
+
+- **Better Business Bureau**  
+  Automated complaint resolution using LLMs and clustering methods, reducing response time by 40% and increasing user satisfaction.
+
+- **Omdena**  
+  Led predictive modeling initiatives for education and COVID-19 diagnostics using CNNs, ResNet, and XGBoost, improving accuracy and practical impact.
+
+- **Illinois Institute of Technology**  
+  Conducted marketing analytics to optimize campaign performance, improving click-through rates by 80% and reducing campaign costs by 40%.
+
+- **IIT Patna**  
+  Designed and implemented an object detection system using YOLO and DCGAN for e-commerce inventory, improving cataloging efficiency and accuracy.
 
 ---
 
-## 🗞️ Publications
+## 🎓 Education
 
-📘 *Automated Catalog Generation Using Deep Learning* – IRJMETS, 2023  
-📘 *Enhancing Medical Image Segmentation* – IRJET, 2023
+**M.S. Data Science & Analytics**  
+Georgia State University | 2024–2025
+
+**B.Tech Information Technology**  
+SGSITS, Indore | 2020–2024
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🌐 Find Me On
 
-I’m open to opportunities in **Data Analytics**, **Business Analytics**, **Data Science**, and **AI Innovation**. If you’re looking to turn data into strategic advantage—I’d love to connect.
-
-📫 **Email:** palak11.kakani@gmail.com  
-📍 **Location:** Atlanta, GA *(Open to Relocate)*  
-🔗 [Portfolio Website](#) | [LinkedIn](#) | [GitHub](#)
-
+📫 **Email:** [palak11.kakani@gmail.com](mailto:palak11.kakani@gmail.com)  
+📍 **Atlanta, GA** *(Open to Relocate)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/kakanipalak11/) | [GitHub](https://github.com/PalakKakani) | [Portfolio Website](https://palakkakani.netlify.app/)
