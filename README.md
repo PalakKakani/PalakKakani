@@ -1,44 +1,30 @@
-# 👋🏻 Hi, I’m Palak Kakani
+# Hi, I'm Palak Kakani! 👋
 
-🎓 Master’s in Data Science & Analytics | Georgia State University  
-💡 Turning complex data into meaningful insights across healthcare, fintech, education, and AI research.
+🚀 **About Me**  
+Data Analyst with 1+ year of experience in building data pipelines, deploying ML models, and delivering insights through dashboards.  
+Currently pursuing an M.S. in Data Science & Analytics at Georgia State University, specializing in machine learning, generative AI, and real-world analytics applications in healthcare, fintech, and education.
 
-I specialize in building **analytics pipelines**, creating **predictive models**, and delivering **actionable dashboards** using tools like Python, SQL, Power BI, and cloud platforms (AWS, Azure, GCP).  
-Passionate about solving real-world problems with data.
+🎓 **Education**  
+📍 Georgia State University – M.S. in Data Science & Analytics (2024–2025)  
+📍 SGSITS, Indore – B.Tech in Information Technology (2020–2024)
 
----
+🛠️ **Technical Skills**  
+**Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL, HTML/CSS, PHP, Git, GitHub, VS Code  
+**Databases & Big Data:** MySQL, MongoDB, Hadoop, Hive, MapReduce, Apache Spark / PySpark  
+**Cloud & DevOps:** AWS, Azure, Docker, CI/CD, ETL Pipelines  
+**Visualization:** Power BI, Tableau, Excel  
+**Core CS Skills:** Data Structures & Algorithms (DSA), Software Engineering  
+**Analytics & ML:** Machine Learning, Deep Learning, NLP, GenAI, Computer Vision, Time-Series Forecasting, A/B Testing, KPI Tracking, Data Migration  
+**Collaboration:** Agile, Scrum, JIRA, Confluence, Stakeholder Communication, Data Storytelling, Market Research
 
-## 🌟 Experience Highlights
+📊 **Projects**  
+• **EduMentor** – AI-powered learning assistant using GPT-4, RAG, Firebase, and Streamlit  
+• **Stock Analytics** – ETL & dashboarding for MAANGM stocks using BigQuery & Looker Studio  
 
-- **Shepherd Center, Atlanta**  
-  Developed ML pipelines to predict rehab outcomes from over 40,000 multimodal patient records, enhancing early treatment strategy accuracy.
+🌐 **Let's Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kakanipalak11/)  
+🔗 [Portfolio](https://palakkakani.netlify.app/)  
+📧 palak11.kakani@gmail.com | 📍 Atlanta, GA | 📞 +1 470-257-8280
 
-- **Better Business Bureau**  
-  Automated complaint resolution using LLMs and clustering methods, reducing response time by 40% and increasing user satisfaction.
-
-- **Omdena**  
-  Led predictive modeling initiatives for education and COVID-19 diagnostics using CNNs, ResNet, and XGBoost, improving accuracy and practical impact.
-
-- **Illinois Institute of Technology**  
-  Conducted marketing analytics to optimize campaign performance, improving click-through rates by 80% and reducing campaign costs by 40%.
-
-- **IIT Patna**  
-  Designed and implemented an object detection system using YOLO and DCGAN for e-commerce inventory, improving cataloging efficiency and accuracy.
-
----
-
-## 🎓 Education
-
-**M.S. Data Science & Analytics**  
-Georgia State University | 2024–2025
-
-**B.Tech Information Technology**  
-SGSITS, Indore | 2020–2024
-
----
-
-## 🌐 Find Me On
-
-📫 **Email:** [palak11.kakani@gmail.com](mailto:palak11.kakani@gmail.com)  
-📍 **Atlanta, GA** *(Open to Relocate)*  
-🔗 [LinkedIn](https://www.linkedin.com/in/kakanipalak11/) | [GitHub](https://github.com/PalakKakani) | [Portfolio Website](https://palakkakani.netlify.app/)
+⚡ **Fun Fact**  
+Led a MERN Stack workshop for 200+ students and served as a Global Ambassador at Women Tech Network — passionate about inclusive, impactful tech!
