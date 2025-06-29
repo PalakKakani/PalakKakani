@@ -1,7 +1,7 @@
 # Hi, I'm Palak Kakani! 👋
 
 🚀 **About Me**  
-Data Analyst with 1+ year of experience in building data pipelines, deploying ML models, and delivering insights through dashboards.  
+Data Analyst with experience in building data pipelines, deploying ML models, and delivering insights through dashboards.  
 Currently pursuing an M.S. in Data Science & Analytics at Georgia State University, specializing in machine learning, generative AI, and real-world analytics applications in healthcare, fintech, and education.
 
 🎓 **Education**  
