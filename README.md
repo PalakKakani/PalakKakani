@@ -24,7 +24,7 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 🌐 **Let's Connect**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kakanipalak11/)  
 🔗 [Portfolio](https://palakkakani.netlify.app/)  
-📧 palak11.kakani@gmail.com | 📍 Atlanta, GA | 📞 +1 470-257-8280
+📧 palak11.kakani@gmail.com 
 
 ⚡ **Fun Fact**  
 Led a MERN Stack workshop for 200+ students and served as a Global Ambassador at Women Tech Network — passionate about inclusive, impactful tech!
