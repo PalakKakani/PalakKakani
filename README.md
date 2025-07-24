@@ -5,8 +5,8 @@ Data Analyst with experience in building data pipelines, deploying ML models, an
 Currently pursuing an M.S. in Data Science & Analytics at Georgia State University, specializing in machine learning, generative AI, and real-world analytics applications in healthcare, fintech, and education.
 
 🎓 **Education**  
-📍 Georgia State University – M.S. in Data Science & Analytics (2024–2025)  
-📍 SGSITS, Indore – B.Tech in Information Technology (2020–2024)
+📍 Georgia State University, Atlanta, USA – M.S. in Data Science & Analytics (2024–2025)  
+📍 SGSITS, Indore, India – B.Tech in Information Technology (2020–2024)
 
 🛠️ **Technical Skills**  
 **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL, HTML/CSS, PHP, Git, GitHub, VS Code  
