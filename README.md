@@ -27,4 +27,4 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 📧 palak11.kakani@gmail.com 
 
 ⚡ **Fun Fact**  
-Led a MERN Stack workshop for 200+ students and served as a Global Ambassador at Women Tech Network — passionate about inclusive, impactful tech!
+Served as a Global Ambassador at Women Tech Network — passionate about inclusive, impactful tech!
