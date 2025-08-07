@@ -9,7 +9,7 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 📍 SGSITS, Indore, India – B.Tech in Information Technology (2020–2024)
 
 🛠️ **Technical Skills**  
-**Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL, HTML/CSS, PHP, Git, GitHub, VS Code  
+**Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, HTML/CSS, PHP, Git, GitHub, VS Code  
 **Databases & Big Data:** MySQL, MongoDB, Hadoop, Hive, MapReduce, Apache Spark / PySpark  
 **Cloud & DevOps:** AWS, Azure, Docker, CI/CD, ETL Pipelines  
 **Visualization:** Power BI, Tableau, Excel, Looker Studio  
