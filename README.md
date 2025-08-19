@@ -1,4 +1,4 @@
-# Hi, I'm Palak Kakani! 👋
+# Hi, I'm Palak Kakani! 
 
 🚀 **About Me**  
 Data Analyst with experience in building data pipelines, deploying ML models, and delivering insights through dashboards.  
