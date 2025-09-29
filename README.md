@@ -6,7 +6,7 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 
 🎓 **Education**  
 📍 Georgia State University, Atlanta, USA – M.S. in Data Science & Analytics (2024–2025)  
-📍 SGSITS, Indore, India – B.Tech in Information Technology (2020–2024)
+📍 SGSITS, Indore, India - B.Tech in Information Technology (2020–2024)
 
 🛠️ **Technical Skills**  
 **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, HTML/CSS, PHP, Git, GitHub, VS Code  
@@ -18,8 +18,8 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 **Collaboration:** Agile, Scrum, JIRA, Confluence, Stakeholder Communication, Data Storytelling, Market Research
 
 📊 **Projects**  
-• **EduMentor** – AI-powered learning assistant using GPT-4, RAG, Firebase, and Streamlit  
-• **Stock Analytics** – ETL & dashboarding for MAANGM stocks using BigQuery & Looker Studio  
+• *EduMentor* – AI-powered learning assistant using GPT-4, RAG, Firebase, and Streamlit  
+• *Stock Analytics* – ETL & dashboarding for MAANGM stocks using BigQuery & Looker Studio  
 
 🌐 **Let's Connect**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kakanipalak11/)  
