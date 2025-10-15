@@ -13,7 +13,7 @@ Currently pursuing an M.S. in Data Science & Analytics at Georgia State Universi
 **Databases & Big Data:** MySQL, MongoDB, Hadoop, Hive, MapReduce, Apache Spark / PySpark  
 **Cloud & DevOps:** AWS, Azure, Docker, CI/CD, ETL Pipelines  
 **Visualization:** Power BI, Tableau, Microsoft Excel, Looker Studio  
-**Core CS Skills:** Data Structures & Algorithms (DSA)  
+**Core CS Skills:** Data Structures & Algorithms
 **Analytics & ML:** Machine Learning, Deep Learning, NLP, GenAI, Computer Vision, Time-Series Forecasting, A/B Testing, KPI Tracking, Data Migration  
 **Collaboration:** Agile, Scrum, JIRA, Confluence, Stakeholder Communication, Data Storytelling, Market Research
 
