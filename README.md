@@ -2,7 +2,7 @@
 
 🚀 **About Me**  
 Data Scientist and Analyst with experience in building data pipelines, deploying ML models, and delivering insights through dashboards.  
-Currently pursuing an M.S. in Data Science & Analytics at Georgia State University, specializing in machine learning, generative AI, and real-world analytics applications in automotive, healthcare, fintech, and education.
+Currently pursuing an M.S. in Data Science & Analytics at Georgia State University, specializing in machine learning, generative AI, and real-world analytics applications in automotive, healthcare, fintech & education.
 
 🎓 **Education**  
 📍 Georgia State University, Atlanta, USA – M.S. in Data Science & Analytics (2024–2025)  
