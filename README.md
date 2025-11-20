@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/PalakKakani/PalakKakani/blob/main/banner.png" alt="Palak Banner" width="100%">
+  <img src="" alt="Palak Banner" width="100%">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCPVTHKn6jr0JGk/giphy.gif" alt="Coding animation">
 </p>
 
 🚀 **About Me**  
@@ -24,23 +27,13 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 
 ## 🛠️ Tech Stack
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,php,html,css,sql" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spark,hive" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,looker" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>  
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css,php,git,github,tensorflow,pytorch,opencv,aws,azure,gcp,docker,mysql,postgres,mongodb" />
 </p>
 
 **Also Experienced In:** LangChain, FAISS, LLMs, Multi-Agent AI, Agentic AI, NLP, YOLOv7, CV, ETL Pipelines, CI/CD, Agile/Scrum
 
-
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 🧠 TalentX AI – Multi-Agent Career Intelligence
 **Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
