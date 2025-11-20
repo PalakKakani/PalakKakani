@@ -32,7 +32,7 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 **Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
 AI-driven career platform that scores resumes, identifies skill gaps, and provides personalized job recommendations.  
 📌 Built with modular agents and RAG pipelines for fast, actionable insights.  
-🔗 [GitHub](https://github.com/PalakKakani/TalentXAI)(#)
+🔗 [GitHub](https://github.com/PalakKakani/TalentXAI)
 
 ---
 
@@ -40,7 +40,7 @@ AI-driven career platform that scores resumes, identifies skill gaps, and provid
 **LangChain | GPT-4o-mini | FAISS | Streamlit**  
 AI companion for single mothers providing wellness guidance, budgeting tips, and emotional support.  
 📌 Uses domain-specific RAG for accurate, empathetic responses.  
-🔗 [GitHub](https://github.com/PalakKakani/Strong_Her_Hackathergsu_2025)(#)
+🔗 [GitHub](https://github.com/PalakKakani/Strong_Her_Hackathergsu_2025)
 
 ---
 
