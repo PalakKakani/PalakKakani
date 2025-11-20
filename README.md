@@ -288,3 +288,14 @@ AI companion for single mothers providing wellness guidance, budgeting tips, and
   <a href="mailto:palak11.kakani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </p>
 
+🛠️ Tech Stack
+Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,cpp,php,html,css,js,git,github,vscode" height="40" /> </p>
+AI, ML & Data
+<p align="center"> <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,fastapi" height="40" /> </p> **Also:** LangChain • FAISS • Multi-Agent AI • RAG • NLP • YOLOv7 • Computer Vision • Time-Series Forecasting
+Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions" height="40" /> </p> ETL Pipelines • CI/CD • Firebase • Streamlit
+Databases & Big Data
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,snowflake" height="40" /> </p> Apache Spark • Hadoop • Hive • BigQuery • Looker Studio
+Visualization & Reporting
+<p align="center"> <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" height="40" /> </p> KPI Tracking • Dashboards • Data Storytelling
