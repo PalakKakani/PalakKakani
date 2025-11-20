@@ -1,7 +1,7 @@
 # Hi, I'm Palak Kakani! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRsMTZuYTIwNXB0Zng4cnVxZnZjczQ4YndvbmFvbjR6cGdpNGIxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)" width="240px" />
 </p>
 
 🚀 **About Me**  
