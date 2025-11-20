@@ -204,3 +204,87 @@ Wellness guidance & budgeting support for single mothers with RAG-based AI.
   <a href="https://palakkakani.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="50"/></a>
 </p>
 
+
+# Hi, I'm Palak Kakani! 👋
+
+<p align="center">
+  <img src="https://github.com/PalakKakani/PalakKakani/blob/main/banner.png" alt="Palak Banner" width="100%">
+</p>
+
+🚀 **About Me**  
+I am a **Data Scientist & Analyst** with hands-on experience in building **ML pipelines, deploying models, and delivering actionable insights via dashboards**.  
+Currently pursuing **M.S. in Data Science & Analytics** at **Georgia State University**, specializing in **Machine Learning, Generative AI, and real-world analytics** across **automotive, healthcare, fintech, and education**.
+
+📍 Atlanta, GA | Open to Relocate  
+📧 [palak11.kakani@gmail.com](mailto:palak11.kakani@gmail.com)  
+🔗 [Portfolio](https://palakkakani.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/kakanipalak11/) | [GitHub](https://github.com/PalakKakani)
+
+---
+
+## 🎓 Education
+
+- **Georgia State University, Atlanta, USA** – M.S. in Data Science & Analytics (2024–2025)  
+- **SGSITS, Indore, India** – B.Tech in Information Technology (2020–2024)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,php,html,css,sql" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spark,hive" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,looker" height="40"/>  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>  
+</p>
+
+**Also Experienced In:** LangChain, FAISS, LLMs, Multi-Agent AI, Agentic AI, NLP, YOLOv7, CV, ETL Pipelines, CI/CD, Agile/Scrum
+
+---
+
+## 💡 What I Do
+
+I build **end-to-end AI & ML systems** including:
+
+- **RAG pipelines & Multi-Agent AI workflows**  
+- **Dashboarding & Data Visualization**  
+- **Predictive modeling, NLP, and Computer Vision solutions**  
+- Delivering **actionable insights for automotive, healthcare, fintech, and educational domains**
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 TalentX AI – Multi-Agent Career Intelligence
+**Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
+AI-driven career platform that scores resumes, identifies skill gaps, and provides personalized job recommendations.  
+📌 Built with modular agents and RAG pipelines for fast, actionable insights.  
+🔗 [GitHub](#) | [Demo](#)
+
+---
+
+### 💙 StrongHer – AI Wellness Companion *(HackHers 2025 – 3rd Place)*
+**LangChain | GPT-4o-mini | FAISS | Streamlit**  
+AI companion for single mothers providing wellness guidance, budgeting tips, and emotional support.  
+📌 Uses domain-specific RAG for accurate, empathetic responses.  
+🔗 [GitHub](#) | [Demo](#)
+
+---
+
+## 📊 Key Achievements
+
+- 🏅 3rd Place – HackHers 2025 (Girls Who Code @ GSU)  
+- 🏅 Global Ambassador – Women Tech Network  
+- ✨ Advocate for inclusive & impactful tech
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kakanipalak11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>  
+  <a href="https://palakkakani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F00000?style=for-the-badge&logo=googlesites&logoColor=white" height="30"/></a>  
+  <a href="mailto:palak11.kakani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
+</p>
+
