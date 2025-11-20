@@ -164,3 +164,43 @@ An AI companion built to support single mothers with wellness insights, budgetin
 🌍 **Portfolio:** [https://palakkakani.netlify.app/](https://palakkakani.netlify.app/)
 📧 **Email:** *[palak11.kakani@gmail.com](mailto:palak11.kakani@gmail.com)*
 
+# 🌟 **Palak Kakani**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" />
+</p>
+
+Hi! I'm **Palak**, a Data Scientist building **AI & multi-agent systems, RAG pipelines, ML models, and dashboards**.  
+I create impactful AI solutions across **healthcare, automotive, fintech, and education**.
+
+# 🧠 **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js,html,css,php,git,github,tensorflow,pytorch,opencv,aws,azure,gcp,docker,mysql,postgres,mongodb" />
+</p>
+
+**Also:** LangChain • Multi-Agent AI • RAG • FAISS • Scikit-learn • Spark • BigQuery • Power BI • Tableau  
+
+---
+
+# 💼 **Featured Projects**
+
+### ⭐ TalentX AI – Multi-Agent Career Platform  
+LangChain | GPT-4 | RAG | Streamlit | Vector DB  
+AI platform for resume scoring, skill-gap analysis, and personalized career recommendations.
+
+### 💙 StrongHer – AI Wellness Companion *(HackHers 2025 – 3rd Place)*  
+LangChain | GPT-4o-mini | FAISS | Streamlit  
+Wellness guidance & budgeting support for single mothers with RAG-based AI.
+
+---
+
+# 🌐 **Connect with Me**
+
+<p align="center">
+  <a href="mailto:palak11.kakani@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://www.linkedin.com/in/kakanipalak11/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://github.com/PalakKakani"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://palakkakani.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="50"/></a>
+</p>
+
