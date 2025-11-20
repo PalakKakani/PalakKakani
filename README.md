@@ -1,9 +1,5 @@
 # Hi, I'm Palak Kakani! 👋
 
-<p align="center">
-  <img src="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg" width="300px" />
-</p>
-
 🚀 **About Me**  
 I am a **Data Scientist & Analyst** with hands-on experience in building **ML pipelines, deploying models, and delivering actionable insights via dashboards**. Currently pursuing **M.S. in Data Science & Analytics** at **Georgia State University**, specializing in **Machine Learning, Generative AI, and real-world analytics** across **automotive, healthcare, fintech, and education**.
 
