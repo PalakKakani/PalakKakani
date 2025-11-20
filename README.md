@@ -4,13 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" />
 </p>
 
-<p align="center">
-  <img src="" alt="Palak Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCPVTHKn6jr0JGk/giphy.gif" alt="Coding animation">
-</p>
-
 🚀 **About Me**  
 I am a **Data Scientist & Analyst** with hands-on experience in building **ML pipelines, deploying models, and delivering actionable insights via dashboards**. Currently pursuing **M.S. in Data Science & Analytics** at **Georgia State University**, specializing in **Machine Learning, Generative AI, and real-world analytics** across **automotive, healthcare, fintech, and education**.
 
