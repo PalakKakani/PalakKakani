@@ -22,7 +22,7 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 
 **Also Experienced In:** LangChain, FAISS, LLMs, Multi-Agent AI, Agentic AI, NLP, YOLOv7, CV, ETL Pipelines, CI/CD, Agile/Scrum
 
-## Featured Projects
+## Projects
 
 ### TalentX AI – Multi-Agent Career Intelligence
 **Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
