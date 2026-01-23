@@ -9,8 +9,8 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 
 ## 🎓 Education
 
-- **Georgia State University, Atlanta, USA** – M.S. in Data Science & Analytics (2024–2025)  
-- **SGSITS, Indore, India** – B.Tech in Information Technology (2020–2024)
+- **Georgia State University, Atlanta, USA** : M.S. in Data Science & Analytics (2024–2025)  
+- **SGSITS, Indore, India** : B.Tech in Information Technology (2020–2024)
 
 ---
 
