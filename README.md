@@ -42,7 +42,7 @@ AI companion for single mothers providing wellness guidance, budgeting tips, and
 
 ## 📊 Key Achievements
 
-- 🏅 3rd Place – HackHers 2025 (Girls Who Code @ GSU)  
+- 🏅 3rd Place – HackHers 2025 (Girls Who Code @ GSU (Georgia State University))  
 - 🏅 Global Ambassador – Women Tech Network  
 
 ---
