@@ -20,7 +20,7 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css,php,git,github,tensorflow,pytorch,opencv,aws,azure,gcp,docker,mysql,postgres,mongodb" />
 </p>
 
-**Also Experienced In:** LangChain, FAISS, LLMs, Multi-Agent AI, Agentic AI, NLP, DL, ML, YOLOv7, CV, ETL Pipelines, CI/CD, Agile/Scrum
+**Also Experienced In:** LangChain, FAISS, LLMs, Multi-Agent AI, Agentic AI, NLP, DL, ML, YOLOv7, CV, ETL Pipelines, CI/CD
 
 ## Projects
 
