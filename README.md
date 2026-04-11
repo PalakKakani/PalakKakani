@@ -24,7 +24,7 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 
 ## Projects
 
-### TalentX AI – Multi-Agent Career Intelligence
+### TalentX AI : Multi-Agent Career Intelligence
 **Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
 AI-driven career platform that scores resumes, identifies skill gaps, and provides personalized job recommendations.  
 📌 Built with modular agents and RAG pipelines for fast, actionable insights.  
@@ -32,7 +32,7 @@ AI-driven career platform that scores resumes, identifies skill gaps, and provid
 
 ---
 
-### StrongHer – AI Wellness Companion *(HackHers 2025 – 3rd Place)*
+### StrongHer : AI Wellness Companion *(HackHers 2025 – 3rd Place)*
 **LangChain | GPT-4o-mini | FAISS | Streamlit**  
 AI companion for single mothers providing wellness guidance, budgeting tips, and emotional support.  
 📌 Uses domain-specific RAG for accurate, empathetic responses.  
