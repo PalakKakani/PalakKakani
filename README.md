@@ -24,7 +24,7 @@ I am a **Data Scientist & Analyst** with hands-on experience in building **ML pi
 
 ## Projects
 
-### TalentX AI : Multi-Agent Career Intelligence
+### Talent X AI : Multi-Agent Career Intelligence
 **Agentic AI | LangChain | GPT-4 | RAG | Streamlit | Vector DB**  
 AI-driven career platform that scores resumes, identifies skill gaps, and provides personalized job recommendations.  
 📌 Built with modular agents and RAG pipelines for fast, actionable insights.  
