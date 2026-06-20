@@ -42,6 +42,7 @@ AI companion for single mothers providing wellness guidance, budgeting tips, and
 
 ## 📊 Key Achievements
 
+- 🏅 1st Place - Food AI Hackathon (Georgia Institute of Technology and Journey Foods)
 - 🏅 3rd Place – HackHers 2025 (Girls Who Code @ GSU (Georgia State University))  
 - 🏅 Global Ambassador – Women Tech Network  
 
