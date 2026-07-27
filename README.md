@@ -1,7 +1,7 @@
 # Hi, I'm Palak Kakani! 👋
 
 🚀 **About**  
-I am a **Data Scientist** with hands-on experience in building **ML pipelines, deploying models, and delivering actionable insights via dashboards**. I have completed **M.S. in Data Science & Analytics** at **Georgia State University**, specializing in **Machine Learning, Generative AI, and real world analytics** across **automotive, healthcare, fintech, and education**.
+I am a **Data Scientist & Analyst** with hands-on experience in building **ML pipelines, deploying models, and delivering actionable insights via dashboards**. I have completed **M.S. in Data Science & Analytics** at **Georgia State University**, specializing in **Machine Learning, Generative AI, and real world analytics** across **automotive, healthcare, fintech, and education**.
 
  📧 [palak11.kakani@gmail.com](mailto:palak11.kakani@gmail.com)  🔗 [Portfolio](https://palakkakani.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/kakanipalak11/) | [GitHub](https://github.com/PalakKakani)
 
